@@ -11,8 +11,8 @@ target 'StructLove' do
     inherit! :search_paths
     # Pods for testing
 
-	pod 'Quick', '~> 0.9'
-	pod 'Nimble', '~> 4.1'
+	pod 'Quick', '~> 1.0.0'
+	pod 'Nimble', '~> 6.0.0'
   end
 
 end
